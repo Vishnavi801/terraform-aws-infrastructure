@@ -197,21 +197,26 @@ Some enhancements that can be added in future versions include:
 ---
 
 ## Project Screenshots
-
 ### VPC
-![VPC](screenshots/VPC.png)
+![VPC](Screenshots/vpc.png)
 
-### Subnet
-![Subnet](screenshots/Subnet.png)
+### Public Subnet
+![Subnet](Screenshots/subnet.png)
 
 ### Internet Gateway
-![IGW](screenshots/IGW.png)
+![IGW](Screenshots/igw.png)
+
+### Route Table
+![Route Table](Screenshots/rt.png)
+
+### Security Group
+![Security Group](Screenshots/sg.png)
 
 ### EC2 Instance
-![EC2](screenshots/EC2-instances.png)
+![EC2](Screenshots/ec2-instances.png)
 
 ### Apache Web Server
-![Apache](screenshots/Apache-webserver.png)
+![Apache](Screenshots/apache-webserver.png)
 
 
 ---
