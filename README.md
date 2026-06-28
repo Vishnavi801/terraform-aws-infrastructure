@@ -196,16 +196,23 @@ Some enhancements that can be added in future versions include:
 
 ---
 
-## Screenshots
+## Project Screenshots
 
-The repository includes screenshots of:
+### VPC
+![VPC](screenshots/VPC.png)
 
-- Terraform Apply Output
-- AWS VPC
-- Public Subnet
-- Security Group
-- EC2 Instance
-- Apache Web Server running successfully
+### Subnet
+![Subnet](screenshots/Subnet.png)
+
+### Internet Gateway
+![IGW](screenshots/IGW.png)
+
+### EC2 Instance
+![EC2](screenshots/EC2-instances.png)
+
+### Apache Web Server
+![Apache](screenshots/Apache-webserver.png)
+
 
 ---
 
